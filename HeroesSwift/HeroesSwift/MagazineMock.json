@@ -1,0 +1,3202 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2016 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2016 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2016 MARVEL</a>",
+    "etag": "901360dcf407dcc1704949ab012b8d93355b59df",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 1326,
+        "count": 20,
+        "results": [
+                    {
+                    "id": 60380,
+                    "digitalId": 0,
+                    "title": "Fallen (2016) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "As a giant falls, friends and enemies alike gather to mourn his passing. Amadeus Cho, Rick Jones, Betty Ross, Thunderbolt Ross, the Warbound and more. Can they all keep a level head - or will some of them get ANGRY? Plus, what secrets lie in the Last Will and Testament of Bruce Banner?",
+                    "modified": "2016-08-12T14:41:48-0400",
+                    "isbn": "",
+                    "upc": "75960608568200111",
+                    "diamondCode": "",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 40,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "As a giant falls, friends and enemies alike gather to mourn his passing. Amadeus Cho, Rick Jones, Betty Ross, Thunderbolt Ross, the Warbound and more. Can they all keep a level head - or will some of them get ANGRY? Plus, what secrets lie in the Last Will and Testament of Bruce Banner?"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/60380",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/60380/fallen_2016_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Fallen-1/digital-comic/42301?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22292",
+                    "name": "Fallen (2016 - Present)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-08-17T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-08-02T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 4.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/57ae178acf573",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/57ae178acf573",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/57a8d5179107b",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60380/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                              "name": "Mark Bagley",
+                              "role": "penciller"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+                              "name": "Mark Basso",
+                              "role": "editor"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                              "name": "Greg Pak",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                              "name": "Leinil Francis Yu",
+                              "role": "penciller (cover)"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60380/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60380/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131233",
+                              "name": "cover from Fallen (2016) #1",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131234",
+                              "name": "story from Fallen (2016) #1",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60380/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 60467,
+                    "digitalId": 0,
+                    "title": "The Accused (2016) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "It's the trial of the century!  As a beloved Avenger falls, another takes the stand to answer for his death. As Hawkeye stands trial amid a case full of super heroes and politics - who will prosecute? None other than Matt Murdock - Daredevil! But when Matt digs into the case and secrets come to light...he may not like what he finds. Has Daredevil bitten off more than he can chew? Amid a growing conspiracy, can the Marvel Universe's most stalwart defender of justice promise a fair trial? The answers won't come easy.",
+                    "modified": "2016-08-05T16:09:22-0400",
+                    "isbn": "",
+                    "upc": "75960608569900111",
+                    "diamondCode": "",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 40,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "It's the trial of the century!  As a beloved Avenger falls, another takes the stand to answer for his death. As Hawkeye stands trial amid a case full of super heroes and politics - who will prosecute? None other than Matt Murdock - Daredevil! But when Matt digs into the case and secrets come to light...he may not like what he finds. Has Daredevil bitten off more than he can chew? Amid a growing conspiracy, can the Marvel Universe's most stalwart defender of justice promise a fair trial? The answers won't come easy."
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/60467",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/60467/the_accused_2016_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/The-Accused-1/digital-comic/42290?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21694",
+                    "name": "The Accused (2016 - Present)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/60480",
+                                 "name": "The Accused (2016) #1 (Lim Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/60481",
+                                 "name": "The Accused (2016) #1 (Staples Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/61341",
+                                 "name": "The Accused (2016) #1 (Torque Bam Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-08-10T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-07-26T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 4.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/57a4f04e33f32",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/57a4f04e33f32",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60467/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+                              "name": "Ramon Bachs",
+                              "role": "penciller"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+                              "name": "Marc Guggenheim",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+                              "name": "Katie Kubert",
+                              "role": "editor"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+                              "name": "David Mack",
+                              "role": "penciller (cover)"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60467/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                              "name": "Captain Marvel (Carol Danvers)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+                              "name": "Daredevil"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                              "name": "Hawkeye"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60467/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131403",
+                              "name": "cover from The Accused (2016) #1",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131404",
+                              "name": "story from The Accused (2016) #1",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60467/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 58680,
+                    "digitalId": 0,
+                    "title": "Civil War II (2016) #3",
+                    "issueNumber": 3,
+                    "variantDescription": "",
+                    "description": "This is the one everyone will be talking about! One of the biggest heroes in the Marvel Universe will fall! Who it is and how and why will divide fans for years to come. Will the heroes of the Marvel Universe survive the unthinkable happening? The fallout to this issue is enormous!",
+                    "modified": "2016-07-08T13:23:35-0400",
+                    "isbn": "",
+                    "upc": "75960608471500311",
+                    "diamondCode": "APR160862",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 48,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "This is the one everyone will be talking about! One of the biggest heroes in the Marvel Universe will fall! Who it is and how and why will divide fans for years to come. Will the heroes of the Marvel Universe survive the unthinkable happening? The fallout to this issue is enormous!"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/58680",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/58680/civil_war_ii_2016_3?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Civil-War-II-3/digital-comic/42042?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/21417",
+                    "name": "Civil War II (2016 - Present)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/58876",
+                                 "name": "Civil War II (2016) #3 (Michael Cho Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/59451",
+                                 "name": "Civil War II (2016) #3 (Noto Hawkeye Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/61329",
+                                 "name": "Civil War II (2016) #3 (Quesada Midnight Launch Wraparound Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/59177",
+                                 "name": "Civil War II (2016) #3 (Gi B&W Virgin Connecting Variant D)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/60379",
+                                 "name": "Civil War II (2016) #3 (Michael Cho Dcd Black and White Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-07-13T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-06-29T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 4.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/578699307ec43",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/578699307ec43",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58680/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                              "name": "Brian Michael Bendis",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                              "name": "Tom Brevoort",
+                              "role": "editor"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                              "name": "Marko Djurdjevic",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+                              "name": "David Marquez",
+                              "role": "penciller"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "characters": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58680/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                              "name": "Captain Marvel (Carol Danvers)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                              "name": "Iron Man"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58680/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127946",
+                              "name": "cover from Cw2 (2016) #3",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/127947",
+                              "name": "story from Cw2 (2016) #3",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58680/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 56090,
+                    "digitalId": 0,
+                    "title": "The Totally Awesome Hulk (2015) #8",
+                    "issueNumber": 8,
+                    "variantDescription": "",
+                    "description": "CIVIL WAR II TIE-IN! BRUCE BANNER was cured from his gamma-irradiated curse...AMADEUS CHO thought he was smart enough to handle the curse! Is he one in a long line of HULKS that face certain tragedy?",
+                    "modified": "2016-06-30T13:32:32-0400",
+                    "isbn": "",
+                    "upc": "75960608333600811",
+                    "diamondCode": "MAY160778",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "CIVIL WAR II TIE-IN! BRUCE BANNER was cured from his gamma-irradiated curse...AMADEUS CHO thought he was smart enough to handle the curse! Is he one in a long line of HULKS that face certain tragedy?"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/56090",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/56090/the_totally_awesome_hulk_2015_8?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/The-Totally-Awesome-Hulk-8/digital-comic/42062?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20614",
+                    "name": "The Totally Awesome Hulk (2015 - Present)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/59558",
+                                 "name": "The Totally Awesome Hulk (2015) #8 (Putri Mighty Men Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-07-06T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-06-22T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/577552e607c47",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/577552e607c47",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56090/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+                              "name": "Alan Davis",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                              "name": "Greg Pak",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                              "name": "Mark Paniccia",
+                              "role": "editor"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56090/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011227",
+                              "name": "Amadeus Cho"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009379",
+                              "name": "Rick Jones"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+                              "name": "She-Hulk (Jennifer Walters)"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56090/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123143",
+                              "name": "cover from Hulk (2015) #8",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123144",
+                              "name": "story from Hulk (2015) #8",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56090/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 56089,
+                    "digitalId": 0,
+                    "title": "The Totally Awesome Hulk (2015) #7",
+                    "issueNumber": 7,
+                    "variantDescription": "",
+                    "description": "CIVIL WAR II TIE-IN! BRUCE BANNER’S fate during the 8-month gap post-SECRET WARS is revealed! Was he really cured by AMADEUS CHO? Did he survive? Has Amadeus made a disastrous miscalculation?\n",
+                    "modified": "2016-06-17T15:19:11-0400",
+                    "isbn": "",
+                    "upc": "75960608333600711",
+                    "diamondCode": "APR160887",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "CIVIL WAR II TIE-IN! BRUCE BANNER’S fate during the 8-month gap post-SECRET WARS is revealed! Was he really cured by AMADEUS CHO? Did he survive? Has Amadeus made a disastrous miscalculation?\n"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/56089",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/56089/the_totally_awesome_hulk_2015_7?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/The-Totally-Awesome-Hulk-7/digital-comic/41834?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20614",
+                    "name": "The Totally Awesome Hulk (2015 - Present)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-06-22T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-06-08T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/575b3379d5438",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/575b3379d5438",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56089/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+                              "name": "Alan Davis",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                              "name": "Greg Pak",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                              "name": "Mark Paniccia",
+                              "role": "editor"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56089/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011227",
+                              "name": "Amadeus Cho"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56089/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123141",
+                              "name": "cover from Hulk (2015) #7",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123142",
+                              "name": "story from Hulk (2015) #7",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56089/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 56088,
+                    "digitalId": 0,
+                    "title": "The Totally Awesome Hulk (2015) #6",
+                    "issueNumber": 6,
+                    "variantDescription": "",
+                    "description": "The Hulk finds himself caught between the Enchantress and the Mighty Thor! When the monster in the trunk breaks loose, the Ten Realms may never be the same! Don’t miss the shocking reveal of a side of Amadeus you’ve never seen before!\n",
+                    "modified": "2016-05-16T15:02:57-0400",
+                    "isbn": "",
+                    "upc": "75960608333600611",
+                    "diamondCode": "MAR160773",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "The Hulk finds himself caught between the Enchantress and the Mighty Thor! When the monster in the trunk breaks loose, the Ten Realms may never be the same! Don’t miss the shocking reveal of a side of Amadeus you’ve never seen before!\n"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/56088",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/56088/the_totally_awesome_hulk_2015_6?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/The-Totally-Awesome-Hulk-6/digital-comic/41619?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/20614",
+                    "name": "The Totally Awesome Hulk (2015 - Present)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-05-25T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-05-11T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5739fb0260983",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5739fb0260983",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56088/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+                              "name": "Frank Cho",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1052",
+                              "name": "Mike Choi",
+                              "role": "penciller"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                              "name": "Greg Pak",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                              "name": "Mark Paniccia",
+                              "role": "editor"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "characters": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56088/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011227",
+                              "name": "Amadeus Cho"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017576",
+                              "name": "Thor (Goddess of Thunder)"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56088/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123139",
+                              "name": "cover from Hulk (2015) #6",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123140",
+                              "name": "story from Hulk (2015) #6",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56088/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 60341,
+                    "digitalId": 42170,
+                    "title": "Avengers VS (2016) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "It's the Avengers versus some of their all-time greatest foes! Powerful Asgardian artifacts are on Earth...but can the Avengers recover them before Loki?",
+                    "modified": "2016-04-28T15:25:10-0400",
+                    "isbn": "",
+                    "upc": "",
+                    "diamondCode": "",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Infinite Comic",
+                    "pageCount": 0,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "It's the Avengers versus some of their all-time greatest foes! Powerful Asgardian artifacts are on Earth...but can the Avengers recover them before Loki?"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/60341",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/60341/avengers_vs_2016_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/22229",
+                    "name": "Avengers VS (2016)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2016-04-28T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2016-04-07T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2016-05-17T12:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 0
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/57505c6f4efc9",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/57505c6f4efc9",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/5739c9f96ac7b",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/572263873fc72",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60341/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                              "name": "Joe Caramagna",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12502",
+                              "name": "Andrea Divito",
+                              "role": "artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/475",
+                              "name": "Laura Villari",
+                              "role": "artist"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60341/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                              "name": "Avengers"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+                              "name": "Black Widow"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                              "name": "Captain America"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+                              "name": "Falcon"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                              "name": "Hawkeye"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                              "name": "Iron Man"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+                              "name": "Red Skull"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                              "name": "Thor"
+                              }
+                              ],
+                    "returned": 9
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60341/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131155",
+                              "name": "interior to Avengers VS Infinite #1",
+                              "type": "interiorStory"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/131156",
+                              "name": "cover to Avengers VS Infinite #1",
+                              "type": "cover"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/60341/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 51172,
+                    "digitalId": 35866,
+                    "title": "New Avengers (2013) #28",
+                    "issueNumber": 28,
+                    "variantDescription": "",
+                    "description": "IN 5 MONTHS...TIME RUNS OUT!",
+                    "modified": "2015-09-14T15:38:08-0400",
+                    "isbn": "",
+                    "upc": "",
+                    "diamondCode": "",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "IN 5 MONTHS...TIME RUNS OUT!"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/51172",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/51172/new_avengers_2013_28?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/New-Avengers-28/digital-comic/35866?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=35866&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/35866?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/16451",
+                    "name": "New Avengers (2013 - Present)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2014-12-24T00:00:00-0500"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2014-11-03T00:00:00-0500"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2015-06-29T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2014-12-24T00:00:00-0500"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 3.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/549825a98c00b",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/549825a98c00b",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51172/creators",
+                    "items": [],
+                    "returned": 0
+                    },
+                    "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51172/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                              "name": "Avengers"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+                              "name": "Black Widow"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                              "name": "Captain America"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+                              "name": "Falcon"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011335",
+                              "name": "Maria Hill"
+                              }
+                              ],
+                    "returned": 6
+                    },
+                    "stories": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51172/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/117970",
+                              "name": "New Avengers (2013) #28",
+                              "type": "cover"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51172/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 50372,
+                    "digitalId": 33566,
+                    "title": "Hulk (2014) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "Following the shocking events of last month's INDESTRUCTIBLE HULK finale, Bruce Banner lies at death's door! If he survives, it WON'T be as the Bruce Banner we've known! How will the Hulk wreak vengeance on Banner's assailant? How CAN he?",
+                    "modified": "2014-07-14T10:42:21-0400",
+                    "isbn": "",
+                    "upc": "75960608056400111",
+                    "diamondCode": "",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "Following the shocking events of last month's INDESTRUCTIBLE HULK finale, Bruce Banner lies at death's door! If he survives, it WON'T be as the Bruce Banner we've known! How will the Hulk wreak vengeance on Banner's assailant? How CAN he?"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/50372",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/50372/hulk_2014_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Hulk-1/digital-comic/33566?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=33566&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/33566?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18834",
+                    "name": "Hulk (2014 - Present)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50388",
+                                 "name": "Hulk (2014) #1 (Bagley Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50387",
+                                 "name": "Hulk (2014) #1 (Blank Cover Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50580",
+                                 "name": "Hulk (2014) #1 (Parel Captain America Team-Up Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50390",
+                                 "name": "Hulk (2014) #1 (Samnee Animal Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50743",
+                                 "name": "Hulk (2014) #1 (Young Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2014-04-16T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2014-04-02T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2014-10-13T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2014-04-16T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 3.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5346d3c0421b4",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5346d3c0421b4",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5328a65700fee",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/5328a612908c3",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5328a5c7f3974",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/52cc2d6914f67",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50372/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                              "name": "Mark Bagley",
+                              "role": "artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+                              "name": "Jerome Opena",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                              "name": "Mark Waid",
+                              "role": "writer"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50372/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50372/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/112775",
+                              "name": "cover from Hulk (2014) #1",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/112776",
+                              "name": "story from Hulk (2014) #1",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50372/events",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+                              "name": "Marvel NOW!"
+                              }
+                              ],
+                    "returned": 1
+                    }
+                    },
+                    {
+                    "id": 50388,
+                    "digitalId": 0,
+                    "title": "Hulk (2014) #1 (Bagley Variant)",
+                    "issueNumber": 1,
+                    "variantDescription": "Bagley Variant",
+                    "description": "Following the shocking events of last month's INDESTRUCTIBLE HULK finale, Bruce Banner lies at death's door! If he survives, it WON'T be as the Bruce Banner we've known! How will the Hulk wreak vengeance on Banner's assailant? How CAN he?",
+                    "modified": "2014-04-10T14:04:59-0400",
+                    "isbn": "",
+                    "upc": "75960608056400141",
+                    "diamondCode": "",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "Following the shocking events of last month's INDESTRUCTIBLE HULK finale, Bruce Banner lies at death's door! If he survives, it WON'T be as the Bruce Banner we've known! How will the Hulk wreak vengeance on Banner's assailant? How CAN he?"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/50388",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/50388/hulk_2014_1_bagley_variant/bagley_variant?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/18834",
+                    "name": "Hulk (2014 - Present)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50372",
+                                 "name": "Hulk (2014) #1"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50387",
+                                 "name": "Hulk (2014) #1 (Blank Cover Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50580",
+                                 "name": "Hulk (2014) #1 (Parel Captain America Team-Up Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50390",
+                                 "name": "Hulk (2014) #1 (Samnee Animal Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/50743",
+                                 "name": "Hulk (2014) #1 (Young Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2014-04-16T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2014-04-02T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5346d74fd2880",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5346d74fd2880",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/52cc2de0ac8dd",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                              "name": "Mark Bagley",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                              "name": "Mark Waid",
+                              "role": "writer"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/112807",
+                              "name": "cover from Hulk (2014) #1 (KEOWN VARIANT)",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/112808",
+                              "name": "story from Hulk (2014) #1 (KEOWN VARIANT)",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50388/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 46446,
+                    "digitalId": 29443,
+                    "title": "Secret Avengers (2013) #4",
+                    "issueNumber": 4,
+                    "variantDescription": "",
+                    "description": "\r\n\r\n\r\n<ul><li>The Scientist Supreme and the new High Council of AIM ignite global war!</li><li>The Secret Avengers welcome their newest recruit: The Indestructible Hulk!</li></ul>",
+                    "modified": "2014-03-01T13:15:22-0500",
+                    "isbn": "",
+                    "upc": "75960607911700411",
+                    "diamondCode": "MAR130631",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "\r\n\r\n\r\n<ul><li>The Scientist Supreme and the new High Council of AIM ignite global war!</li><li>The Secret Avengers welcome their newest recruit: The Indestructible Hulk!</li></ul>"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46446",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/46446/secret_avengers_2013_4?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Secret-Avengers-4/digital-comic/29443?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=29443&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/29443?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/17547",
+                    "name": "Secret Avengers (2013 - 2014)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/46447",
+                                 "name": "Secret Avengers (2013) #4 (Brooks Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2013-05-08T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2013-04-24T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-11-11T00:00:00-0500"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2013-05-08T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/579b784f605b0",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/579b784f605b0",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/46446/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                              "name": "Tomm Coker",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+                              "name": "Luke Ross",
+                              "role": "artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                              "name": "Nick Spencer",
+                              "role": "writer"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/46446/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009167",
+                              "name": "Bruce Banner"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/46446/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/104478",
+                              "name": "cover from Secret Avengers (2013) #4",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/104479",
+                              "name": "story from Secret Avengers (2013) #4",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/46446/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 43911,
+                    "digitalId": 28029,
+                    "title": "Indestructible Hulk (2012) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "Marvel NOW! makes Hulk an Agent of S.H.I.E.L.D.! Hulk â€\" Indestructible force, more weapon than man. Bruce Banner â€\" smartest man alive. Combined they are the strongest, smartest weapon on the planet!\n",
+                    "modified": "2015-03-18T12:06:59-0400",
+                    "isbn": "",
+                    "upc": "75960607908700111",
+                    "diamondCode": "SEP120531",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "Hulk - Indestructible force more weapon than man. Banner &ndash; smartest man alive. Combined they are the Strongest, Smartest Weapon on the planet! And NOW! the INDESTRUCTIBLE HULK is an Agent of S.H.I.E.L.D.!"
+                                    },
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "Marvel NOW! makes Hulk an Agent of S.H.I.E.L.D.! Hulk â€\" Indestructible force, more weapon than man. Bruce Banner â€\" smartest man alive. Combined they are the strongest, smartest weapon on the planet!\n"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/43911",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/43911/indestructible_hulk_2012_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Indestructible-Hulk-1/digital-comic/28029?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=28029&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/28029?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/16583",
+                    "name": "Indestructible Hulk (2012 - Present)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/43914",
+                                 "name": "Indestructible Hulk (2012) #1 (Young Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/43915",
+                                 "name": "Indestructible Hulk (2012) #1 (Simonson Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/43916",
+                                 "name": "Indestructible Hulk (2012) #1 (Quesada Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/43913",
+                                 "name": "Indestructible Hulk (2012) #1 (Blank Cover Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/43917",
+                                 "name": "Indestructible Hulk (2012) #1 (Yu Design Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/44508",
+                                 "name": "Indestructible Hulk (2012) #1 (Quesada Sketch Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-11-21T00:00:00-0500"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-11-07T00:00:00-0500"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-05-27T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-11-21T00:00:00-0500"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51647213d5fdf",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51647213d5fdf",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/502aba5c630e9",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/5032a7b6c100d",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/5021d640ac3cf",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/43911/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8542",
+                              "name": "Gerry Alanguilan",
+                              "role": "inker"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                              "name": "Chris Eliopoulos",
+                              "role": "letterer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11579",
+                              "name": "Sunny Gho",
+                              "role": "colorist (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11808",
+                              "name": "Jonathan Moisan",
+                              "role": "editor"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                              "name": "Mark Waid",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                              "name": "Leinil Francis Yu",
+                              "role": "penciler (cover)"
+                              }
+                              ],
+                    "returned": 6
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/43911/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/43911/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/99063",
+                              "name": "cover from Indestructible Hulk (2012) #1",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/99064",
+                              "name": "story from Indestructible Hulk (2012) #1",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/43911/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 41691,
+                    "digitalId": 26967,
+                    "title": "Marvel Universe Avengers: Earth's Mightiest Heroes (2011) #3",
+                    "issueNumber": 3,
+                    "variantDescription": "",
+                    "description": "<ul><li> The writer of the hit Disney XD series brings the Avengers: Earth's Mightiest Heroes from the TV to your home! </li><li> Captain America and Nick Fury must rely on their wits to escape the ancient power of the Zodiac Key and the vile SCORPIO!</li><li> Then, opposites attract &emdash; trouble! Free-wheelin' Hawkeye and regal Black Panther find themselves on an unlikely Team-Up &emdash; THROUGH TIME! </li><ul>",
+                    "modified": "2015-07-14T12:24:55-0400",
+                    "isbn": "",
+                    "upc": "5960607779-00311",
+                    "diamondCode": "APR120661",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "<ul><li> The writer of the hit Disney XD series brings the Avengers: Earth's Mightiest Heroes from the TV to your home! </li><li> Captain America and Nick Fury must rely on their wits to escape the ancient power of the Zodiac Key and the vile SCORPIO!</li><li> Then, opposites attract &emdash; trouble! Free-wheelin' Hawkeye and regal Black Panther find themselves on an unlikely Team-Up &emdash; THROUGH TIME! </li><ul>"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41691",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/41691/marvel_universe_avengers_earths_mightiest_heroes_2011_3?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=26967&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/15549",
+                    "name": "Marvel Universe Avengers: Earth's Mightiest Heroes (2011 - Present)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-06-20T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-06-06T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2012-07-17T15:10:35-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 2.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4fd652127fde2",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4fd652127fde2",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41691/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+                              "name": "Ramon Bachs",
+                              "role": "artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10117",
+                              "name": "Chris Jones",
+                              "role": "artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1103",
+                              "name": "Khoi Pham",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11539",
+                              "name": "Christopher Yost",
+                              "role": "Writer"
+                              }
+                              ],
+                    "returned": 4
+                    },
+                    "characters": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41691/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                              "name": "Captain America"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                              "name": "Hawkeye"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                              "name": "Iron Man"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                              "name": "Thor"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                              "name": "Wasp"
+                              }
+                              ],
+                    "returned": 6
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41691/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/94326",
+                              "name": "Cover #94326",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/94327",
+                              "name": "Interior #94327",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41691/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 40586,
+                    "digitalId": 26550,
+                    "title": "Incredible Hulk (2011) #8",
+                    "issueNumber": 8,
+                    "variantDescription": "",
+                    "description": "In order to stay himself, Hulk must stay angry! Attempting to keep his rage levels high, Hulk challenges The Punisher to a battle that will prove to be the one of the deadliest fights Hulk will ever face!\n",
+                    "modified": "2012-05-16T01:31:50-0400",
+                    "isbn": "",
+                    "upc": "5960607292-00811",
+                    "diamondCode": "MAR120594",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "In order to stay himself, Hulk must stay angry! Attempting to keep his rage levels high, Hulk challenges The Punisher to a battle that will prove to be the one of the deadliest fights Hulk will ever face!\n"
+                                    },
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "\t<ul><li> In order to stay himself, Hulk must STAY ANGRY!</li><li> How does one stay angry? How about going up against THE PUNISHER?</li><li> And if that isn't enough, the Green Goliath can always take on a murderous drug cartel!</li></ul>\t "
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40586",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/40586/incredible_hulk_2011_8?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Incredible-Hulk-8/digital-comic/26550?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=26550&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/26550?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/14876",
+                    "name": "Incredible Hulk (2011 - 2012)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-05-30T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-05-16T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-04-08T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-05-30T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51965f7ac3178",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/51965f7ac3178",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4fa96b09f15e9",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4fa96ae130e83",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4fa96ac99bc60",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/4fa96a9c685e9",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/04/4fa969dfd3d9e",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/4f397fda9846e",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40586/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                              "name": "Jason Aaron",
+                              "role": "Writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+                              "name": "Steve Dillon",
+                              "role": "Penciller"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                              "name": "Chris Eliopoulos",
+                              "role": "Letterer"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40586/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+                              "name": "Punisher"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40586/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/91994",
+                              "name": "Cover #91994",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/91995",
+                              "name": "Interior #91995",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40586/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 41151,
+                    "digitalId": 24380,
+                    "title": "Incredible Hulk (2011) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "\t<ul><li> Whatever happened to Bruce Banner.?</li><li> RED SHE-HULK knows, and is NONE TOO PLEASED.</li></ul>\t ",
+                    "modified": "2015-04-27T16:42:42-0400",
+                    "isbn": "",
+                    "upc": "5960607729-00111",
+                    "diamondCode": "MAR120591",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "\t<ul><li> Whatever happened to Bruce Banner.?</li><li> RED SHE-HULK knows, and is NONE TOO PLEASED.</li></ul>\t "
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41151",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/41151/incredible_hulk_2011_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Incredible-Hulk-1/digital-comic/24380?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=24380&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/24380?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/14876",
+                    "name": "Incredible Hulk (2011 - 2012)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/40893",
+                                 "name": "Incredible Hulk (2011) #1 (Blank Cover Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/40077",
+                                 "name": "Incredible Hulk (2011) #1 (Neal Adams Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/40894",
+                                 "name": "Incredible Hulk (2011) #1 (Sketch Variant)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/40896",
+                                 "name": "Incredible Hulk (2011) #1 (INCREDIBLE HULK 1 KEOWN VARIANT)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/40895",
+                                 "name": "Incredible Hulk (2011) #1 (INCREDIBLE HULK 1 LADRONN VARIANT)"
+                                 },
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/41905",
+                                 "name": "Incredible Hulk (2011) #1 (Portacio Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-05-16T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-05-02T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2012-10-01T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2011-10-26T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 2.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/51965eb36bd89",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/51965eb36bd89",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4f39618c7da46",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4eaaf4be2e774",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4e7a4fa67ff44",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/4e7a4f878bd97",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4e7a4f69d5a0a",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4e7a4f348480c",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4e36fd02abdb9",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41151/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                              "name": "Jason Aaron",
+                              "role": "Writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                              "name": "Cullen Bunn",
+                              "role": "Writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                              "name": "Chris Eliopoulos",
+                              "role": "Letterer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4991",
+                              "name": "Frank Martin",
+                              "role": "Colorist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+                              "name": "Jefte Palo",
+                              "role": "Inker"
+                              }
+                              ],
+                    "returned": 5
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41151/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41151/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93159",
+                              "name": "Cover #93159",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93160",
+                              "name": "Incredible Hulk (2011) #1",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41151/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 41354,
+                    "digitalId": 25726,
+                    "title": "Avengers Assemble (2012) #3",
+                    "issueNumber": 3,
+                    "variantDescription": "",
+                    "description": "The Avengers square off against the Zodiac for the good of the city. Will the team defeat their new-found enemies or will they crumble beneath their star-studded powers?  \n",
+                    "modified": "2013-02-15T13:50:15-0500",
+                    "isbn": "",
+                    "upc": "5960607749-00311",
+                    "diamondCode": "MAR120548",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "The Avengers square off against the Zodiac for the good of the city. Will the team defeat their new-found enemies or will they crumble beneath their star-studded powers?  \n"
+                                    },
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "\t<ul><li> Avengers versus the Zodiac!  But who is behind the Zodiac?  </li><li> PLUS! The reappearance of a team of characters you've been clamoring for! </li></ul>\t "
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41354",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/41354/avengers_assemble_2012_3?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Avengers-Assemble-3/digital-comic/25726?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=25726&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/25726?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/15373",
+                    "name": "Avengers Assemble (2012 - Present)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-05-09T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-04-25T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-03-25T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-05-09T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4fabd17ca6e23",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/50662dc306952",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4fabd17ca6e23",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4faadb1aae1fc",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                              "name": "Mark Bagley",
+                              "role": "penciller (cover)"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                              "name": "Brian Michael Bendis",
+                              "role": "writer"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+                              "name": "Thanos"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93578",
+                              "name": "Avengers Assemble (2011) #3",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93579",
+                              "name": "Interior #93579",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41354/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 41220,
+                    "digitalId": 26376,
+                    "title": "Hulk Smash Avengers (2011) #2",
+                    "issueNumber": 2,
+                    "variantDescription": "",
+                    "description": "Taking on some of the Marvel U's biggest heroes, Hulk smashes his way through The Avengers. Will the team ever be the same?",
+                    "modified": "2013-04-02T16:03:33-0400",
+                    "isbn": "",
+                    "upc": "5960607743-00211",
+                    "diamondCode": "MAR120551",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "Taking on some of the Marvel U's biggest heroes, Hulk smashes his way through The Avengers. Will the team ever be the same?"
+                                    },
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "\tHulk vs. the `70s-era Avengers: Iron Man, Wasp, Vision and the Beast!\t "
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41220",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/41220/hulk_smash_avengers_2011_2?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Hulk-Smash-Avengers-2/digital-comic/26376?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=26376&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/26376?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/15311",
+                    "name": "Hulk Smash Avengers (2011 - 2012)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-05-09T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-04-24T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-04-08T16:02:44-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-05-09T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 2.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4fabe29911979",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4fabe29911979",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4f74845f4c274",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/4f748209a4328",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/4f7482093d95f",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4f7481433ccfa",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/4f7481433e896",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4f7481434acf1",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41220/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/159",
+                              "name": "Joe Casey",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+                              "name": "Lee Weeks",
+                              "role": "penciller (cover)"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41220/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41220/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93299",
+                              "name": "Hulk Smash Avengers (2011) #2",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93300",
+                              "name": "Interior #93300",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41220/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 41219,
+                    "digitalId": 26303,
+                    "title": "Hulk Smash Avengers (2011) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "One of the strongest heroes in the Marvel U faces off against the AVENGERS in a five-part punch-fest! As the Hulk rages on, see the relationships between the Avengers change in ways you never thought they would before!\n",
+                    "modified": "2012-05-01T01:31:14-0400",
+                    "isbn": "",
+                    "upc": "5960607743-00111",
+                    "diamondCode": "MAR120550",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "One of the strongest heroes in the Marvel U faces off against the AVENGERS in a five-part punch-fest! As the Hulk rages on, see the relationships between the Avengers change in ways you never thought they would before!\n"
+                                    },
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "<ul><li>A five-part, weekly punch-fest that explores the ever-evolving relationship between the Gamma Goliath and Earth's Mightiest Heroes!</li><li> Hulk vs. the 60's-era Avengers: Captain America, Iron Man, Giant-Man, Wasp and Thor!</li></ul>\t "
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41219",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/41219/hulk_smash_avengers_2011_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Hulk-Smash-Avengers-1/digital-comic/26303?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=26303&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/26303?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/15311",
+                    "name": "Hulk Smash Avengers (2011 - 2012)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-05-02T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-04-17T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-04-08T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-05-02T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 2.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56cb2b6085b2c",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/56cb2b6085b2c",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4f7cbbc1f4144",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4f7cbbc1e776f",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/10/4f7cbbc1ebdcf",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41219/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+                              "name": "Ron Frenz",
+                              "role": "penciller"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+                              "name": "Lee Weeks",
+                              "role": "penciller (cover)"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "characters": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41219/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                              "name": "Avengers"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41219/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93297",
+                              "name": "Cover #93297",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93298",
+                              "name": "Interior #93298",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41219/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 41178,
+                    "digitalId": 26222,
+                    "title": "Avengers: Roll Call (2011) #1",
+                    "issueNumber": 1,
+                    "variantDescription": "",
+                    "description": "Everything you wanted to know about the AVENGERS and more! Just in time for their blockbuster movie this summer, catch up on all of the Marvel U's biggest heroes here! Avengers Assemble! \n",
+                    "modified": "2013-04-02T15:16:54-0400",
+                    "isbn": "",
+                    "upc": "5960607733-00111",
+                    "diamondCode": "FEB120549",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 64,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "&rdquo;,,&rdquo;"
+                                    },
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "Everything you wanted to know about the AVENGERS and more! Just in time for their blockbuster movie this summer, catch up on all of the Marvel U's biggest heroes here! Avengers Assemble! \n"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41178",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/41178/avengers_roll_call_2011_1?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Avengers-Roll-Call-1/digital-comic/26222?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=26222&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/26222?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/15301",
+                    "name": "Avengers: Roll Call (2011 - 2012)"
+                    },
+                    "variants": [],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-04-25T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-04-10T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2013-04-08T15:16:33-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-04-25T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 4.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/56cb1febdba7e",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/56cb1febdba7e",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/4f88744e6d095",
+                               "extension": "png"
+                               }
+                               ],
+                    "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41178/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+                              "name": "Ariel Olivetti",
+                              "role": "Artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11561",
+                              "name": "Ive Svorcina",
+                              "role": "Colorist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+                              "name": "Dalibor Talajic",
+                              "role": "Penciller"
+                              }
+                              ],
+                    "returned": 3
+                    },
+                    "characters": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41178/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                              "name": "Avengers"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                              "name": "Captain America"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                              "name": "Iron Man"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                              "name": "Thor"
+                              }
+                              ],
+                    "returned": 5
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41178/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93211",
+                              "name": "Cover #93211",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/93212",
+                              "name": "Interior #93212",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/41178/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    },
+                    {
+                    "id": 40569,
+                    "digitalId": 26154,
+                    "title": "Incredible Hulk (2011) #7",
+                    "issueNumber": 7,
+                    "variantDescription": "",
+                    "description": "It's Hulk versus Banner in the epic conclusion to their bloody encounter.  The world isn't big enough for the two of them...\n",
+                    "modified": "2014-05-01T13:22:50-0400",
+                    "isbn": "",
+                    "upc": "5960607292-00711",
+                    "diamondCode": "FEB120596",
+                    "ean": "",
+                    "issn": "",
+                    "format": "Comic",
+                    "pageCount": 32,
+                    "textObjects": [
+                                    {
+                                    "type": "issue_solicit_text",
+                                    "language": "en-us",
+                                    "text": "&rdquo;,&bull; We Dare Not Reveal More! We Wouldn&rsquo;t Want To Spoil What Is Sure To Be One Of The Most Exciting Comics Of The Year!,&rdquo;"
+                                    },
+                                    {
+                                    "type": "issue_preview_text",
+                                    "language": "en-us",
+                                    "text": "It's Hulk versus Banner in the epic conclusion to their bloody encounter.  The world isn't big enough for the two of them...\n"
+                                    }
+                                    ],
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40569",
+                    "urls": [
+                             {
+                             "type": "detail",
+                             "url": "http://marvel.com/comics/issue/40569/incredible_hulk_2011_7?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "purchase",
+                             "url": "http://comicstore.marvel.com/Incredible-Hulk-7/digital-comic/26154?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "reader",
+                             "url": "http://marvel.com/digitalcomics/view.htm?iid=26154&utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             },
+                             {
+                             "type": "inAppLink",
+                             "url": "http://applink.marvel.com/issue/26154?utm_campaign=apiRef&utm_source=c0416d0510457cee46d6a56b7d901d13"
+                             }
+                             ],
+                    "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/14876",
+                    "name": "Incredible Hulk (2011 - 2012)"
+                    },
+                    "variants": [
+                                 {
+                                 "resourceURI": "http://gateway.marvel.com/v1/public/comics/42536",
+                                 "name": "Incredible Hulk (2011) #7 (Avengers Art Appreciation Variant)"
+                                 }
+                                 ],
+                    "collections": [],
+                    "collectedIssues": [],
+                    "dates": [
+                              {
+                              "type": "onsaleDate",
+                              "date": "2012-04-18T00:00:00-0400"
+                              },
+                              {
+                              "type": "focDate",
+                              "date": "2012-04-04T00:00:00-0400"
+                              },
+                              {
+                              "type": "unlimitedDate",
+                              "date": "2012-10-31T00:00:00-0400"
+                              },
+                              {
+                              "type": "digitalPurchaseDate",
+                              "date": "2012-04-18T00:00:00-0400"
+                              }
+                              ],
+                    "prices": [
+                               {
+                               "type": "printPrice",
+                               "price": 3.99
+                               },
+                               {
+                               "type": "digitalPurchasePrice",
+                               "price": 1.99
+                               }
+                               ],
+                    "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56cb16e760081",
+                    "extension": "jpg"
+                    },
+                    "images": [
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/56cb16e760081",
+                               "extension": "jpg"
+                               },
+                               {
+                               "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/51965f8994681",
+                               "extension": "jpg"
+                               }
+                               ],
+                    "creators": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40569/creators",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                              "name": "Jason Aaron",
+                              "role": "writer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                              "name": "Chris Eliopoulos",
+                              "role": "Letterer"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11579",
+                              "name": "Sunny Gho",
+                              "role": "Colorist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/832",
+                              "name": "Val Staples",
+                              "role": "Colorist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7183",
+                              "name": "Allen Martinez",
+                              "role": "Inker"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1336",
+                              "name": "Whilce Portacio",
+                              "role": "artist"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                              "name": "Leinil Francis Yu",
+                              "role": "Penciller"
+                              }
+                              ],
+                    "returned": 7
+                    },
+                    "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40569/characters",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                              "name": "Hulk"
+                              }
+                              ],
+                    "returned": 1
+                    },
+                    "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40569/stories",
+                    "items": [
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/91960",
+                              "name": "Cover #91960",
+                              "type": "cover"
+                              },
+                              {
+                              "resourceURI": "http://gateway.marvel.com/v1/public/stories/91961",
+                              "name": "Interior #91961",
+                              "type": "interiorStory"
+                              }
+                              ],
+                    "returned": 2
+                    },
+                    "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/40569/events",
+                    "items": [],
+                    "returned": 0
+                    }
+                    }
+                    ]
+    }
+}
