@@ -8,8 +8,7 @@
 
 import UIKit
 
-class APIRequest: NSObject {
-    
+struct APIRequest {
     static let serverAPI = "http://gateway.marvel.com:80"
     static let pathAPI = "/v1/public/characters/1009351/comics?"
     static let tsAPI = "1"
