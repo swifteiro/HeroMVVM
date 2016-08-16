@@ -14,8 +14,8 @@ class MagazineController: NSObject {
     
     
     // MARK: GET
-    class func getMagazines(successBlock : (NSMutableArray? -> ())?,
-                    failure failureBlock : (String! -> ())!) {
+    class func getMagazines(successBlock : (NSMutableArray? -> ()),
+                    failure failureBlock : (String! -> ())) {
         
         let urlString: String = (APIRequest.serverAPI) + (APIRequest.pathAPI)
         let parameters: NSDictionary = ["ts" : APIRequest.tsAPI, "apikey" : APIRequest.apikey, "hash" : APIRequest.hashNumer]
@@ -28,11 +28,10 @@ class MagazineController: NSObject {
                     
                     print("Validation Successful")
                     
-                    if let dictResponse :NSDictionary = response.result.value?.objectForKey("data") as? NSDictionary {
-                        
-                        if let arrayObj :NSArray = dictResponse.objectForKey("results") as? NSArray {
+                    if let dictResponse = response.result.value?.objectForKey("data") as? NSDictionary {
+                        if let arrayObj = dictResponse.objectForKey("results") as? NSArray {
                             
-                            successBlock!(MagazineController.startParsing(arrayObj))
+                            successBlock(MagazineController.startParsing(arrayObj))
                         }
                     }
                     
@@ -48,28 +47,28 @@ class MagazineController: NSObject {
     //MARK: FromJSONFile
     class func jsonParsingFromFile(withString: String?) -> NSMutableArray
     {
-        let path: NSString = NSBundle.mainBundle().pathForResource("MagazineMock", ofType: "json")!
-        
+        let path :NSString = (NSBundle.mainBundle().pathForResource("MagazineMock", ofType: "json") ?? "")
         var data :NSData?
-        var dict: NSDictionary?
         
-        do {
-            
-            data = try NSData(contentsOfFile: path as String, options: NSDataReadingOptions.DataReadingMapped)
-            dict = ((try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.MutableContainers)) as? NSDictionary)
-            
-            if let dictData :NSDictionary = dict!.objectForKey("data") as? NSDictionary {
-                
-                if let arrayObj :NSArray = dictData.objectForKey("results") as? NSArray {
-                    
-                    return MagazineController.startParsing(arrayObj)
-                }
+        if path != "" {
+            do {
+                data = try NSData(contentsOfFile: path as String, options: NSDataReadingOptions.DataReadingMapped)
+            } catch {
+                data = nil
             }
             
-        } catch {
-            
-            data = nil
-            dict = nil
+            if let dataJson = data {
+                do {
+                    let json = try NSJSONSerialization.JSONObjectWithData(dataJson, options: .AllowFragments)
+                    if let dictData = json.objectForKey("data") as? NSDictionary {
+                        if let arrayObj = dictData.objectForKey("results") as? NSArray {
+                            return MagazineController.startParsing(arrayObj)
+                        }
+                    }
+                } catch {
+                    print("error serializing JSON: \(error)")
+                }
+            }
         }
         
         return NSMutableArray()

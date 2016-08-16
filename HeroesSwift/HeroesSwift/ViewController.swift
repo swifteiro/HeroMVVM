@@ -30,7 +30,7 @@ class ViewController: UIViewController, UICollectionViewDelegate  {
         
         MagazineController.getMagazines({ (responseArray) in
             
-            if let arrayObj :NSMutableArray = responseArray {
+            if let arrayObj = responseArray {
                 
                 self.arrayMagazines = arrayObj
                 
@@ -59,18 +59,18 @@ class ViewController: UIViewController, UICollectionViewDelegate  {
     func collectionView(collectionView: UICollectionView!, cellForItemAtIndexPath indexPath: NSIndexPath!) -> UICollectionViewCell! {
         
         let cellIdentifier = "MagazineCell"
-        let cell :MagazineCell = collectionView.dequeueReusableCellWithReuseIdentifier(cellIdentifier, forIndexPath:indexPath) as! MagazineCell
+        let cell = collectionView.dequeueReusableCellWithReuseIdentifier(cellIdentifier, forIndexPath:indexPath) as? MagazineCell
         
         return cell
     }
     
     func collectionView(collectionView: UICollectionView, willDisplayCell cell: UICollectionViewCell, forItemAtIndexPath indexPath: NSIndexPath) {
         
-        let magazineCell: MagazineCell = cell as! MagazineCell
+        let magazineCell = cell as? MagazineCell
         
         let magazine = self.arrayMagazines[indexPath.row]
         let cellViewModel = MagazineCellViewModel(magazine: magazine as! MagazineModel)
-        magazineCell.setupCell(cellViewModel)
+        magazineCell?.setupCell(cellViewModel)
     }
 }
 
