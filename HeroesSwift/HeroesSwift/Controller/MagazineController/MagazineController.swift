@@ -36,6 +36,8 @@ class MagazineController: NSObject {
         }
     }
     
+    
+    
     func jsonParsingFromFile(withString: String?) -> NSMutableArray
     {
         let path: NSString = NSBundle.mainBundle().pathForResource("MagazineMock", ofType: "json")!
