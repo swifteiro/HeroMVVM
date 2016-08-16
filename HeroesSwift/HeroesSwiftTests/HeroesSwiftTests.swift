@@ -54,6 +54,7 @@ class HeroesSwiftTests: XCTestCase {
         
         let magazineViewModel = ResultViewModel(result: magazine)
         
+        
         XCTAssertNotNil(magazineViewModel.titleText)
         XCTAssertNotNil(magazineViewModel.thumbnailDictionary)
         XCTAssertNotNil(magazineViewModel.pageCountInt)
