@@ -15,7 +15,7 @@ class MagazineController: NSObject {
     
     // MARK: GET
     class func getMagazines(successBlock : (NSMutableArray? -> ()),
-                    failure failureBlock : (String! -> ())) {
+                    failure failureBlock : (String? -> ())) {
         
         let urlString: String = (APIRequest.serverAPI) + (APIRequest.pathAPI)
         let parameters: NSDictionary = ["ts" : APIRequest.tsAPI, "apikey" : APIRequest.apikey, "hash" : APIRequest.hashNumer]
@@ -30,7 +30,6 @@ class MagazineController: NSObject {
                     
                     if let dictResponse = response.result.value?.objectForKey("data") as? NSDictionary {
                         if let arrayObj = dictResponse.objectForKey("results") as? NSArray {
-                            
                             successBlock(MagazineController.startParsing(arrayObj))
                         }
                     }
