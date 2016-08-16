@@ -10,41 +10,41 @@ import UIKit
 
 class ResultViewModel: NSObject {
     
-    private var result: ResultModel?
+    private var magazine: MagazineModel?
     
     var titleText: String? {
-        guard (result?.title) != nil else {
+        guard (magazine?.title) != nil else {
             return nil
         }
-        return result?.title
+        return magazine?.title
     }
     
     var thumbnailDictionary: NSDictionary? {
-        return result?.thumbnail
+        return magazine?.thumbnail
     }
     
     var pageCountInt: NSInteger? {
-        return result?.pageCount
+        return magazine?.pageCount
     }
     
     var issueNumberInt: NSInteger? {
-        return result?.issueNumber
+        return magazine?.issueNumber
     }
     
     var pricesArray: NSArray? {
-        return result?.prices
+        return magazine?.prices
     }
     
     var modifiedDate: String? {
-        return result?.modified
+        return magazine?.modified
     }
     
     var textObjectsArray: NSArray? {
-        return result?.textObjects
+        return magazine?.textObjects
     }
     
-    init(result: ResultModel) {
+    init(result: MagazineModel) {
         
-        self.result = result
+        self.magazine = result
     }
 }

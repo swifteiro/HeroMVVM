@@ -16,15 +16,15 @@ class HeroesSwiftTests: XCTestCase {
         super.setUp()
         // Put setup code here. This method is called before the invocation of each test method in the class.
         
-        let magazine = MagazineController()
+        MagazineController.jsonParsingFromFile("")
         
-        magazine.getMagazines({ (responseArray) in
+        MagazineController.getMagazines({ (array) in
             
-            print(responseArray)
+            print(array)
             
-        }) { (errorString) in
-            
-            print(errorString)
+            }) { (stringError) in
+                
+                print(stringError)
         }
     }
     
@@ -42,6 +42,7 @@ class HeroesSwiftTests: XCTestCase {
         // This is an example of a performance test case.
         self.measureBlock {
             // Put the code you want to measure the time of here.
+            
         }
     }
     
@@ -49,7 +50,7 @@ class HeroesSwiftTests: XCTestCase {
         
         let dictThumbnail: NSDictionary = ["path" : "pathWayTest", "extension" : "png"] // let = constante, var = variavel 
         
-        let magazine = ResultModel(title: "HULK", thumbnail: dictThumbnail, pageCount: 1, issueNumber: 1, prices: ["100,00", "50,00", "70,00"], modified: "", textObjects: ["txt3", "txt2", "txt1"])
+        let magazine = MagazineModel(title: "HULK", thumbnail: dictThumbnail, pageCount: 1, issueNumber: 1, prices: ["100,00", "50,00", "70,00"], modified: "", textObjects: ["txt3", "txt2", "txt1"])
         
         let magazineViewModel = ResultViewModel(result: magazine)
         

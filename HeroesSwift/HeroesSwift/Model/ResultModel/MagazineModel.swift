@@ -1,5 +1,5 @@
 //
-//  ResultModel.swift
+//  MagazineModel.swift
 //  HeroesSwift
 //
 //  Created by Vinicius A. Minozzi on 8/15/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ResultModel: NSObject {
+class MagazineModel: NSObject {
     
     var title: String?
     var thumbnail: NSDictionary?
@@ -18,7 +18,7 @@ class ResultModel: NSObject {
     var modified: String?
     var textObjects: NSArray?
     
-    init(title: String, thumbnail: NSDictionary, pageCount: NSInteger, issueNumber: NSInteger, prices: NSArray, modified: String, textObjects: NSArray) {
+    init(title: String?, thumbnail: NSDictionary?, pageCount: NSInteger?, issueNumber: NSInteger?, prices: NSArray?, modified: String?, textObjects: NSArray?) {
         
         self.title = title
         self.thumbnail = thumbnail
