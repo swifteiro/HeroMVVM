@@ -12,8 +12,10 @@ import Alamofire
 
 class MagazineController: NSObject {
     
-    func getMagazines(successBlock : (NSMutableArray? -> ())!,
-                      failure failureBlock : (String! -> ())!) {
+    
+    // MARK: GET
+    class func getMagazines(successBlock : (NSMutableArray? -> ())?,
+                    failure failureBlock : (String! -> ())!) {
         
         let urlString: String = (APIRequest.serverAPI) + (APIRequest.pathAPI)
         let parameters: NSDictionary = ["ts" : APIRequest.tsAPI, "apikey" : APIRequest.apikey, "hash" : APIRequest.hashNumer]
@@ -25,8 +27,14 @@ class MagazineController: NSObject {
                 case .Success:
                     
                     print("Validation Successful")
-                    let array = self.startParsing((response.result.value?.objectForKey("data")! as! NSDictionary).objectForKey("results")! as! NSArray)
-                    successBlock(array)
+                    
+                    if let dictResponse :NSDictionary = response.result.value?.objectForKey("data") as? NSDictionary {
+                        
+                        if let arrayObj :NSArray = dictResponse.objectForKey("results") as? NSArray {
+                            
+                            successBlock!(MagazineController.startParsing(arrayObj))
+                        }
+                    }
                     
                 case .Failure(let error):
                     
@@ -37,31 +45,59 @@ class MagazineController: NSObject {
     }
     
     
-    
-    func jsonParsingFromFile(withString: String?) -> NSMutableArray
+    //MARK: FromJSONFile
+    class func jsonParsingFromFile(withString: String?) -> NSMutableArray
     {
         let path: NSString = NSBundle.mainBundle().pathForResource("MagazineMock", ofType: "json")!
-        let data: NSData = try! NSData(contentsOfFile: path as String, options: NSDataReadingOptions.DataReadingMapped)
-        let dict: NSDictionary = (try! NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.MutableContainers)) as! NSDictionary
         
-        return self.startParsing((dict.objectForKey("data")! as! NSDictionary).objectForKey("results")! as! NSArray)
+        var data :NSData?
+        var dict: NSDictionary?
+        
+        do {
+            
+            data = try NSData(contentsOfFile: path as String, options: NSDataReadingOptions.DataReadingMapped)
+            dict = ((try NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.MutableContainers)) as? NSDictionary)
+            
+            if let dictData :NSDictionary = dict!.objectForKey("data") as? NSDictionary {
+                
+                if let arrayObj :NSArray = dictData.objectForKey("results") as? NSArray {
+                    
+                    return MagazineController.startParsing(arrayObj)
+                }
+            }
+            
+        } catch {
+            
+            data = nil
+            dict = nil
+        }
+        
+        return NSMutableArray()
     }
     
-    func startParsing(data: NSArray) -> NSMutableArray
+    
+    //MARK: ObjParsing
+    class func startParsing(data: NSArray?) -> NSMutableArray
     {
         let arrayMagazine = NSMutableArray()
         
-        for obj in data {
+        if let objData = data {
             
-            let magazine = ResultModel(title: obj.objectForKey("title") as! String,
-                                       thumbnail: obj.objectForKey("thumbnail") as! NSDictionary,
-                                       pageCount: obj.objectForKey("pageCount") as! NSInteger,
-                                       issueNumber: obj.objectForKey("issueNumber") as! NSInteger,
-                                       prices: obj.objectForKey("prices") as! NSArray,
-                                       modified: obj.objectForKey("modified") as! String,
-                                       textObjects: obj.objectForKey("textObjects") as! NSArray)
-            
-            arrayMagazine.addObject(magazine)
+            if objData.count > 0 {
+                
+                for obj in objData {
+                    
+                    let magazine = MagazineModel(title: (obj.objectForKey("title") ?? "") as? String,
+                                                 thumbnail: obj.objectForKey("thumbnail" ?? "") as? NSDictionary,
+                                                 pageCount: obj.objectForKey("pageCount" ?? "") as? NSInteger,
+                                                 issueNumber: obj.objectForKey("issueNumber" ?? "") as? NSInteger,
+                                                 prices: obj.objectForKey("prices" ?? "") as? NSArray,
+                                                 modified: obj.objectForKey("modified" ?? "") as? String,
+                                                 textObjects: obj.objectForKey("textObjects" ?? "") as? NSArray)
+                    
+                    arrayMagazine.addObject(magazine)
+                }
+            }
         }
         
         return arrayMagazine

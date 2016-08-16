@@ -28,12 +28,17 @@ class ViewController: UIViewController, UICollectionViewDelegate  {
     // MARK: LoadMagazines
     func loadMagazines() {
         
-        let magazine = MagazineController()
-        
-        magazine.getMagazines({ (responseArray) in
+        MagazineController.getMagazines({ (responseArray) in
             
-            self.arrayMagazines = responseArray!
-            self.collectionView.reloadData()
+            if let arrayObj :NSMutableArray = responseArray {
+                
+                self.arrayMagazines = arrayObj
+                
+                dispatch_async(dispatch_get_main_queue(), {
+                    
+                    self.collectionView.reloadData()
+                })
+            }
             
         }) { (errorString) in
             
@@ -54,8 +59,7 @@ class ViewController: UIViewController, UICollectionViewDelegate  {
     func collectionView(collectionView: UICollectionView!, cellForItemAtIndexPath indexPath: NSIndexPath!) -> UICollectionViewCell! {
         
         let cellIdentifier = "MagazineCell"
-        
-        let cell = collectionView.dequeueReusableCellWithReuseIdentifier(cellIdentifier, forIndexPath:indexPath) as! MagazineCell
+        let cell :MagazineCell = collectionView.dequeueReusableCellWithReuseIdentifier(cellIdentifier, forIndexPath:indexPath) as! MagazineCell
         
         return cell
     }
@@ -65,7 +69,7 @@ class ViewController: UIViewController, UICollectionViewDelegate  {
         let magazineCell: MagazineCell = cell as! MagazineCell
         
         let magazine = self.arrayMagazines[indexPath.row]
-        let cellViewModel = MagazineCellViewModel(magazine: magazine as! ResultModel)
+        let cellViewModel = MagazineCellViewModel(magazine: magazine as! MagazineModel)
         magazineCell.setupCell(cellViewModel)
     }
 }

@@ -10,16 +10,17 @@ import UIKit
 
 class MagazineCellViewModel: NSObject, CellPresentation {
 
-    private var result: ResultModel?
+    private var result: MagazineModel?
     
     var titleText: String? {
+        
         guard (result?.title) != nil else {
-            return nil
+            return ""
         }
         return result?.title
     }
     
-    init(magazine: ResultModel) {
+    init(magazine: MagazineModel) {
         
         self.result = magazine
     }
@@ -27,6 +28,6 @@ class MagazineCellViewModel: NSObject, CellPresentation {
     
     func changeTitle(cell: MagazineCell) {
         
-        cell.titleLabel.text = self.result?.title
+        cell.titleLabel.text = self.titleText
     }
 }
