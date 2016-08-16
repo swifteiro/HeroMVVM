@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8E5BD037DF2895ADF90B5BBB /* Pods_HeroesSwiftTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9318A721F71B920AF28C26CF /* Pods_HeroesSwiftTests.framework */; };
+		E6398E4E1D63B25F005250AD /* APIRequestTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6398E4D1D63B25F005250AD /* APIRequestTest.swift */; };
 		E65A7FC91D625F9400E9129B /* MagazineCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65A7FC81D625F9400E9129B /* MagazineCell.swift */; };
 		E65A7FCB1D62602A00E9129B /* MagazineCellProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65A7FCA1D62602A00E9129B /* MagazineCellProtocol.swift */; };
 		E65A7FCD1D6262BE00E9129B /* MagazineCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E65A7FCC1D6262BE00E9129B /* MagazineCellViewModel.swift */; };
@@ -44,6 +45,7 @@
 		9318A721F71B920AF28C26CF /* Pods_HeroesSwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HeroesSwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA642170D4E618B32B3B1940 /* Pods-HeroesSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HeroesSwift.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HeroesSwift/Pods-HeroesSwift.debug.xcconfig"; sourceTree = "<group>"; };
 		E2AA26E480DB74EAEB211972 /* Pods-HeroesSwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HeroesSwiftTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HeroesSwiftTests/Pods-HeroesSwiftTests.release.xcconfig"; sourceTree = "<group>"; };
+		E6398E4D1D63B25F005250AD /* APIRequestTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIRequestTest.swift; sourceTree = "<group>"; };
 		E65A7FC81D625F9400E9129B /* MagazineCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MagazineCell.swift; path = View/MagazineCell/MagazineCell.swift; sourceTree = "<group>"; };
 		E65A7FCA1D62602A00E9129B /* MagazineCellProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MagazineCellProtocol.swift; sourceTree = "<group>"; };
 		E65A7FCC1D6262BE00E9129B /* MagazineCellViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MagazineCellViewModel.swift; path = View/MagazineCell/MagazineCellViewModel.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 			children = (
 				E6678E591D61F4C200CF8ADA /* HeroesSwiftTests.swift */,
 				E6678E5B1D61F4C200CF8ADA /* Info.plist */,
+				E6398E4D1D63B25F005250AD /* APIRequestTest.swift */,
 			);
 			path = HeroesSwiftTests;
 			sourceTree = "<group>";
@@ -453,6 +456,7 @@
 			files = (
 				E6678E5A1D61F4C200CF8ADA /* HeroesSwiftTests.swift in Sources */,
 				E6678E6C1D62073900CF8ADA /* ResultViewModel.swift in Sources */,
+				E6398E4E1D63B25F005250AD /* APIRequestTest.swift in Sources */,
 				E6678E6D1D62078F00CF8ADA /* MagazineModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
